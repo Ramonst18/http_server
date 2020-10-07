@@ -11,7 +11,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 /**
- *
+ *muchas cosas uuuuuuuuuu
  * @author rnavarro
  */
 public class HTTPClient {
